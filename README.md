@@ -1,1 +1,1 @@
-# Cusso-EAD
+# Curso-EAD
